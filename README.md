@@ -24,3 +24,4 @@ In the fourth slide, there are one heat map, two pie charts, and one bubble map 
 
 Figure 4. User trips per week day with the user type and the starting point of the customers
 ## Summary
+In the first tab, the users majority of user tend to use the bikes within the first hour but there are users that use bikes for hours. 

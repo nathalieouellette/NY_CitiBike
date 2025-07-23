@@ -2,6 +2,10 @@
 ## Overview of the statistical analysis
 The purpose of the analysis is the determine the transferbility of the bike sharing company from New York to Des Moine, Iowa. In order to determine the feasibility of bike sharing company in Des Moine, Iowa, there needs to be analysis of bike sharing company in New York. 
 
+## Tools
+Software:  Python 3.7.13, Jupyter Notebook, Tableau.
+Link to Tableau Dashboard: [Bike Trip Analysis Dashboard](https://public.tableau.com/app/profile/nathalie.ouellette/viz/Module15_16696000579440/NYCStory)
+
 ## Results
 Within ![this link](https://public.tableau.com/app/profile/nathalie.ouellette/viz/Challenge15_16701758384700/CitiBikiStory?publish=yes) in the CitiBiki Story, the first graph in the first tab is Checkout Times for Users shown in figure 1. This is displaying the number of bikes per hour per minute, the trip duration of all bikes being used. The second graph in the first tab is the Checkout Times by Gender shown in figure 1. This is displaying the number of bikes per hour per minute for each gender. There is a filter for both hour trip duration and the gender for the users to select data for the graph. 
 

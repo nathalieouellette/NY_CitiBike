@@ -4,6 +4,7 @@ The purpose of the analysis is the determine the transferbility of the bike shar
 
 ## Tools
 Software:  Python 3.7.13, Jupyter Notebook, Tableau.
+
 Link to Tableau Dashboard: [Bike Trip Analysis Dashboard](https://public.tableau.com/app/profile/nathalie.ouellette/viz/Module15_16696000579440/NYCStory)
 
 ## Results
